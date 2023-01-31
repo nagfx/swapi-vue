@@ -1,5 +1,9 @@
 # swapi-vue
 
+Used Swapi api and used Tim Wong's amazing css to build this project of
+implementation of Swapi API in Vue.js
+https://github.com/nagfx/swapi-vue
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
